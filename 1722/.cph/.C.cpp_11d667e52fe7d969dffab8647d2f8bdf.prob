@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"/home/trisolaris/cf/817div4/C.cpp","tests":[{"id":1703941688546,"input":"3\n1\nabc\ndef\nabc\n3\norz for qaq\nqaq orz for\ncod for ces\n5\niat roc hem ica lly\nbac ter iol ogi sts\nbac roc lly iol iat\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/trisolaris/cf/817div4/C.cpp","group":"local","local":true}
